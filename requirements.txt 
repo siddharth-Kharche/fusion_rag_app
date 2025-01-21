@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-openai
+qdrant-client
+pandas
+datasets
+athina-ai
+langsmith
+python-dotenv
